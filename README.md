@@ -1,0 +1,1 @@
+This is an exercice where i tried to mimic the Airbnb's database (it's pretty barebone tho). You can have users, reservations, houses and cities. Everything is database, so there is no graphical thing yet.
